@@ -1,0 +1,5 @@
+httpx
+requests
+pytest
+pytest-asyncio
+pytest-recording
